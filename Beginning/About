@@ -1,0 +1,43 @@
+#include <iostream>
+
+int main () {
+
+std::cout <<"My name is DHOLLAR$IGN.\n";
+std::cout <<"Everything is a low down popcorn \n";
+
+std::cout <<"Ahh Tw3tso Nyame dey house? \n";
+std::cout <<"Abeg greet am gimme wai.\n";
+std::cout <<"Tell am say I greet o boss! Help me tap the other guy. I greet you too. \n";
+std::cout <<"Today is 20th February 2024.\n";
+std::cout <<"And we want to do some simple maths for today\n";
+std::cout <<"First, we start with 20 multiply by 5 which =\n";
+    
+    int score = 20 * 5;
+    std::cout << score <<"\n";
+std::cout <<"Okay good. We got our first answer.\n";
+//
+std::cout <<"Now we move to the days of the week =\n";
+
+int daysoftheweek = 365 / 52;
+std::cout << daysoftheweek <<"\n";
+std::cout <<"That's also good. we just got our days of the week.\n";
+//
+
+std::cout <<"Now time for our payments.\n";
+std::cout <<"Payment made for Malcolm Adu Ansere.=\n";
+
+int tip = 100 * 15;
+std::cout << tip <<"\n";
+//
+std::cout <<"Payment made for shallipopi.=\n";
+int money = 500 / 10;
+std::cout << money <<"\n";
+//
+std::cout <<"Okay payment successfully made.\n";
+std::cout <<"So I think we call it a day lol.\n";
+
+//
+std::cout <<"Boss Abeg I go come house on April please we beg.\n";
+std::cout <<"I greeeeeeeet yoooooouuuuu 3 cameras boss\n";
+
+}
